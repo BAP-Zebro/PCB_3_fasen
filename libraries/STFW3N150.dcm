@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STFW3N150
+D STMICROELECTRONICS - STFW3N150 - Power MOSFET, N Channel, 1.5 kV, 2.5 A, 6 ohm, TO-3PF, Through Hole
+K
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00149569.pdf
+$ENDCMP
+#
+#End Doc Library

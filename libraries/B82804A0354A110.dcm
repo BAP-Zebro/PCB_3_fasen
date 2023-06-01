@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B82804A0354A110
+D Transformers for IGBT/FET, Gate-drive transformer, 1 output, 350?H, TR=1:1
+K
+F https://product.tdk.com/system/files/dam/doc/product/capacitor/pfc/key-comp_contactor/data_sheet/85/ds/b82804a.pdf
+$ENDCMP
+#
+#End Doc Library
